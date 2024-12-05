@@ -1,0 +1,41 @@
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
+body {
+  overflow-x: hidden;
+  margin-bottom: -20px;
+  border-collapse: collapse;
+}
+#side-menu {
+    min-height: 650px;
+    margin:0;
+    padding: 0;
+    background: #f8f8f8;
+    border-right:solid 1px #e7e7e7;
+}
+
+.mark-paid:hover {
+  cursor: pointer;
+}
+
+.dataTables_filter {
+  float: right;
+}
+ 
+.dataTables_filter input{
+  border:solid 1px #ddd;
+}
+
+.dataTables_length {
+  float: left;
+}
+
+.dataTables_length select {
+  border:solid 1px #ddd;
+}
+ 
+
