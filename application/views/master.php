@@ -26,7 +26,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
 
-                <a class="navbar-brand" button class="openbtn" onclick="openNav()">&#9776;</button> POS Sales & Inventory Management System</a>
+                <a class="navbar-brand" button class="openbtn" onclick="openNav()">&#9776;</button> NU CATALOGUE</a>
 
             </div>
             <!-- /.navbar-header -->
