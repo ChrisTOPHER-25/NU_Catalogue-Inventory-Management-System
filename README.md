@@ -3,13 +3,13 @@
 Setup:
 
 <ul>
-<li>1. Clone project</li>
-<li>3. Copy and paste Source Code to the htdocs</li>
-<li>4. Run the XAMPP Server (Apache, MySQL)</li>
-<li>5. Open the Browser"</li>
-<li>6. Write localhost/phpmyadmin"</li>
-<li>7. Insert the Database"</li>
-<li>8. Write localhost/nucatalogue to Run the System"</li>
+<li> Clone project</li>
+<li> Copy and paste Source Code to the htdocs</li>
+<li> Run the XAMPP Server (Apache, MySQL)</li>
+<li> Open the Browser"</li>
+<li> Write localhost/phpmyadmin"</li>
+<li> Insert the Database"</li>
+<li> Write localhost/nucatalogue to Run the System"</li>
 </ul>
 
 
